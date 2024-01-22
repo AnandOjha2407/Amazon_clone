@@ -1,7 +1,7 @@
 
 # PORTFOLIO
 
-This is my portfolio website in which all my projects and skills have been mentioned.
+This is a clone of Official Amazon website made with pure HTML and CSS
 
 
 
@@ -13,8 +13,8 @@ This is my portfolio website in which all my projects and skills have been menti
 ## Deployment
 
 To deploy this project run
-https://anandojha2407.github.io/Portfolio/
 
+[https://github.com/AnandOjha2407/Portfolio.git](https://anandojha2407.github.io/Amazon_clone/)
 
 
 ## Developer 
@@ -23,7 +23,7 @@ https://anandojha2407.github.io/Portfolio/
 
 ## How to use
 
-1. Clone the repository: git clone https://github.com/AnandOjha2407/Portfolio.git
+1. Clone the repository: git clone  https://github.com/AnandOjha2407/Amazon_clone.git
 2. Open index.html in a web browser to view the content.
 3. Customize:
 Modify the HTML and CSS file to tailor the Portfolio page for specfic branding and requirements.
