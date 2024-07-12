@@ -1,5 +1,5 @@
 
-# PORTFOLIO
+# Amazon Clone
 
 This is a clone of Official Amazon website made with pure HTML and CSS
 
