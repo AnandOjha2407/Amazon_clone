@@ -14,7 +14,7 @@ This is a clone of Official Amazon website made with pure HTML and CSS
 
 To deploy this project run
 
-https://anandojha2407.github.io/Amazon_clone/(https://anandojha2407.github.io/Amazon_clone/)
+https://anandojha2407.github.io/Amazon_clone
 
 
 ## Developer 
